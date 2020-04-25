@@ -1,3 +1,3 @@
 # demo-app
 跨平台小程序
-![](https:\\github.com\anyrzm\demo-app\blob\maste\m\20200424225428179.jpg)
+![](http://pic.nipic.com/2007-10-24/20071024202515532_2.jpg)
