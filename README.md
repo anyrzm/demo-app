@@ -3,9 +3,9 @@
 最近小程序比较活跃，各大平台陆续推出了自己的小程序，像前段时间比较火的微信小程序, 为商家带来一波新生流量。百度小程序, qq小程序, 抖音小程序陆续上线使小程序更火了起来。随着小程序的火热, 跨平台, 多端兼容框架也应运而生。 uniapp跨平台, 多端兼容的优秀能力使很多前端人员关注。最近做小白, 也体验一把uniapp的强大能力, 空闲的时间, 自己捣鼓了一下, 做了一个菜谱的uniapp跨平台小程序, 基本完整的走了一遍uniapp小程序开发的简单流程,  本篇文章就是对这次实践的简单介绍。目前微信小程序, 支付宝小程序, 抖音小程序均以上线, 微信抖音小程序(印记菜谱), 支付宝小程序(美食秘籍)。
 
 先上小程序二维码
-<img src="https://github.com/anyrzm/demo-app/blob/master/m/20200424230936851.png" width="240" height="240" alt=""/>
-<img src="https://github.com/anyrzm/demo-app/blob/master/m/20200424225428179.jpg" width="240" height="240" alt=""/>
-<img src="https://github.com/anyrzm/demo-app/blob/master/m/20200424230237910.jpg" width="240" height="240" alt=""/>
+<img src="https://github.com/anyrzm/demo-app/blob/master/m/20200424230936851.png" width="200" height="200" alt=""/>
+<img src="https://github.com/anyrzm/demo-app/blob/master/m/20200424225428179.jpg" width="200"  alt=""/>
+<img src="https://github.com/anyrzm/demo-app/blob/master/m/20200424230237910.jpg" width="200" height="200" alt=""/>
 
 ## 项目准备
 申请微信开发者账号 [微信开发者平台](https://mp.weixin.qq.com/).<br/>
