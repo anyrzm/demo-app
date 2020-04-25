@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/classify/classify",
+    "pages/search/search",
+    "pages/detail/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "看图",
+    "navigationBarBackgroundColor": "#333333",
+    "backgroundColor": "#EFEFEF"
+  },
+  "tabBar": {
+    "color": "#444444",
+    "selectedColor": "#F7B52C",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/index-0.png",
+        "selectedIconPath": "static/index-1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/classify/classify",
+        "iconPath": "static/tag-0.png",
+        "selectedIconPath": "static/tag-1.png",
+        "text": "分类"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

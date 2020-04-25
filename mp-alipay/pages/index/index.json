@@ -1,0 +1,11 @@
+{
+  "defaultTitle": "美食秘籍",
+  "pullRefresh": false,
+  "usingComponents": {
+    "search-view": "/components/search/search",
+    "swiper-view": "/components/swiper/swiper",
+    "groom-view": "/components/groom/groom",
+    "goods-view": "/components/goods/goods",
+    "share-view": "/components/share/share"
+  }
+}

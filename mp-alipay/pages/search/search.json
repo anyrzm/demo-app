@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "搜索",
+  "pullRefresh": false,
+  "usingComponents": {
+    "search-view": "/components/search/search",
+    "goods-item-view": "/components/goods/item",
+    "share-view": "/components/share/share"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "setting": {
+    "postcss": true,
+    "minified": true,
+    "es6": true
+  },
+  "appid": "tt370041bda82a50fc",
+  "projectname": "印记菜谱"
+}

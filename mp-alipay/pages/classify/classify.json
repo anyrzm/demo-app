@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "分类",
+  "pullRefresh": false,
+  "usingComponents": {
+    "search-view": "/components/search/search",
+    "share-view": "/components/share/share"
+  }
+}

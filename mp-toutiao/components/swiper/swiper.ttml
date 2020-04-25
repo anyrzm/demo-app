@@ -1,0 +1,1 @@
+<swiper class="swiper data-v-5a798558" indicator-dots="{{true}}" autoplay="{{true}}" interval="{{3000}}" duration="{{1000}}"><swiper-item class="swiper-item data-v-5a798558"><image src="{{$root.m0}}" mode="aspectFill" class="data-v-5a798558"></image></swiper-item></swiper>

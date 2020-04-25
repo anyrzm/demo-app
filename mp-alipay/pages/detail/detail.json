@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "详情",
+  "pullRefresh": false,
+  "usingComponents": {
+    "goods-item-view": "/components/goods/item",
+    "share-view": "/components/share/share"
+  }
+}
